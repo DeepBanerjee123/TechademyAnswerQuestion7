@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-25T00:23:40 IST" name="Default suite" finished-at="2025-01-25T00:24:12 IST" duration-ms="32027">
+    <groups>
+    </groups>
+    <test started-at="2025-01-25T00:23:40 IST" name="Default test" finished-at="2025-01-25T00:24:12 IST" duration-ms="32027">
+      <class name="com.virtusa.QuestionNumber5.AutomateFlightBookTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.virtusa.QuestionNumber5.AutomateFlightBookTest@2a265ea9]" started-at="2025-01-25T00:23:40 IST" name="setUp" finished-at="2025-01-25T00:23:53 IST" duration-ms="13055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="flightSearchAutomation()[pri:0, instance:com.virtusa.QuestionNumber5.AutomateFlightBookTest@2a265ea9]" started-at="2025-01-25T00:23:53 IST" name="flightSearchAutomation" finished-at="2025-01-25T00:24:11 IST" duration-ms="17223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flightSearchAutomation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.virtusa.QuestionNumber5.AutomateFlightBookTest@2a265ea9]" started-at="2025-01-25T00:24:11 IST" name="tearDown" finished-at="2025-01-25T00:24:12 IST" duration-ms="1645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.virtusa.QuestionNumber5.AutomateFlightBookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
